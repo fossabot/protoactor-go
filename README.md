@@ -71,6 +71,7 @@ Reinvent by not reinventing.
 ## Why Actors
 
 ![batman](/resources/batman.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fprotoactor-go.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fprotoactor-go?ref=badge_shield)
 
 * Decoupled Concurrency
 * Distributed by default
@@ -347,3 +348,7 @@ message Response {
 
 For more examples, see the example folder in this repository.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fprotoactor-go.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fprotoactor-go?ref=badge_large)
